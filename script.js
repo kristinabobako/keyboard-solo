@@ -100,6 +100,4 @@ function stopTimer() {
     timer.textContent = '00:00';
     substituteRandomWord();
     currentTimer = 0;
-
-    return result;
 };
